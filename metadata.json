@@ -1,0 +1,6 @@
+{
+  "name": "기초학력 지도일지 매니저",
+  "description": "초·중등 기초학력 향상 지원을 위한 맞춤형 지도 일지 관리 프로그램. 날짜, 차시, 학생별 지도내용, 성취도, 비고 기록 및 공문서 서식 인쇄/엑셀 관리 기능 제공",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
